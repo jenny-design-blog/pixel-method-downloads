@@ -3,14 +3,24 @@
 This public repository hosts downloadable files and preview images used by the
 Pixel & Method blog.
 
-## Daily Planner
+## Printable sets
 
-The `daily-planner` folder contains:
+This repository contains the following A4 printable sets:
 
-- four individual A4 daily planner designs in color;
-- four individual A4 daily planner designs in black and white;
-- one four-page color pack and one four-page black-and-white pack;
-- the cover, overview, and page preview images used in the blog post.
+- Daily Planner
+- Daily Health Tracker
+- Self-Care Planner
+- Daily Agenda
+- Today's Plan
+- 5-Minute Daily Reflection
+- Monthly Agenda
+- Weekly Agenda
+- Yearly Flow
+- 30-Day Challenge
+
+Each product folder includes individual color and black-and-white PDFs, combined
+PDF packs, the approved post cover, and previews made from the distributed PDFs.
+The `planner-collection` folder contains the cover for the collection post.
 
 Please read [TERMS.md](TERMS.md) before downloading or using the files.
 
